@@ -1,6 +1,6 @@
 body {
     background-color: white; 
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Architects Daughter', Monospace;
     background-image: url("http://www.vp69.navy.mil/images/1920x1080.jpg");
 } 
 
@@ -44,7 +44,7 @@ body {
      color:black;
      text-align: center;
      font-size: 100px; 
-    font-family: 'Indie Flower', cursive;
+   font-family: 'Architects Daughter', Monospace;
     position:fixed;
     bottom: -50px;
  } 
@@ -57,7 +57,7 @@ body {
 
  
  .red-jersey {
-     width: 200px;
+     width: 250px;
      margin-left: -10px;
  }
  .black-skirt{
