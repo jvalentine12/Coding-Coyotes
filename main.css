@@ -51,13 +51,13 @@ body {
  
  h2 {
      position: fixed;
-     top:10px;
+     bottom:-5px;
      left:10px;
  }
 
  
  .red-jersey {
-     width: 225px;
+     width: 200px;
      margin-left: -10px;
  }
  .black-skirt{
