@@ -11,7 +11,7 @@ $(document).ready(function() {
 
         var gendertext = $(".genderinput").val();
 
-
+        console.log(localStorage);
         localStorage.setItem('nametext', nametext);
 
         localStorage.setItem('gendertext', gendertext);

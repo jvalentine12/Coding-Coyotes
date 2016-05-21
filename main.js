@@ -2,6 +2,7 @@ $(document).ready(function() {
 
             var nametext = localStorage.getItem('nametext');
             var gendertext = localStorage.getItem('gendertext');
+            console.log(localStorage);
             $(".name").html(nametext);
             $(".gender").html(gendertext);
 
@@ -9,6 +10,10 @@ $(document).ready(function() {
 
             $(".shoesImage").click(function(event) {
                 $(".shoesImage").css("position", "relative");
+                $(".shoesImage").css("top", 0); 
+                $(".shoesImage").css("left", 0);
+                
+
 
 
                 var target = event.currentTarget;
@@ -20,6 +25,8 @@ $(document).ready(function() {
 
             $(".hatsImage").click(function(event) {
                 $(".hatsImage").css("position", "relative");
+                 $(".hatsImage").css("top", 0); 
+                $(".hatsImage").css("left", 0);
 
 
                 var target = event.currentTarget;
@@ -32,6 +39,8 @@ $(document).ready(function() {
             
              $(".bottomImage").click(function(event) {
                 $(".bottomImage").css("position", "relative");
+                 $(".bottomImage").css("top", 0); 
+                $(".bottomImage").css("left", 0);
 
 
                 var target = event.currentTarget;
@@ -46,6 +55,8 @@ $(document).ready(function() {
 
 $(".topsImage").click(function(event) {
                 $(".topsImage").css("position", "relative");
+                 $(".topsImage").css("top", 0); 
+                $(".topsImage").css("left", 0);
 
 
                 var target = event.currentTarget;
