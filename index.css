@@ -1,0 +1,22 @@
+body { 
+   
+            font-family: 'Architects Daughter', Monospace;
+            background-image: url("http://www.vp69.navy.mil/images/1920x1080.jpg");
+            
+}
+    
+   .box{
+  margin-left: 450px;	
+    
+  
+}
+
+ .go{
+  margin-left: 600px;
+ }
+ 
+ .title{
+    text-align: center;
+    font-size: 260%;
+ }
+
