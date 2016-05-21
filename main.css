@@ -57,12 +57,12 @@ body {
 
  
  .red-jersey {
-     width: 250px;
+     width: 225px;
      margin-left: -10px;
  }
  .black-skirt{
-     width:225px;
-     margin-left: 10;
+     width:265px;
+     margin-left: -0px;
  }
  .black-shirt {
      width: 250px;
@@ -79,4 +79,16 @@ body {
 
 .red-hat {
     margin-top:10px;
+}
+
+.red-shorts {
+    margin-left:45px;
+}
+
+.yellow-kicks {
+    margin-top:50px;
+}
+
+.blue-kicks {
+    margin-top:50px;
 }
