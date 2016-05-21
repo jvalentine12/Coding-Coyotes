@@ -12,7 +12,7 @@ $(document).ready(function() {
 
 
                 var target = event.currentTarget;
-                $(target).css("top", "375px");
+                $(target).css("top", "460px");
                 $(target).css("left", "170px");
                 $(target).css("position", "fixed");
 
@@ -35,7 +35,7 @@ $(document).ready(function() {
 
 
                 var target = event.currentTarget;
-                $(target).css("top", "320px");
+                $(target).css("top", "360px");
                 $(target).css("left", "170px");
                 $(target).css("position", "fixed");
 
@@ -50,7 +50,7 @@ $(".topsImage").click(function(event) {
 
                 var target = event.currentTarget;
                 $(target).css("top", "224px");
-                $(target).css("left", "120px");
+                $(target).css("left", "190px");
                 $(target).css("position", "fixed");
 
 
