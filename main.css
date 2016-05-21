@@ -1,0 +1,69 @@
+body {
+    background-color: white; 
+    font-family: 'Indie Flower', cursive;
+    background-image: url("http://www.vp69.navy.mil/images/1920x1080.jpg");
+} 
+
+.left { 
+    float: left; 
+  width:50% ; 
+  display:flex;
+  flex-direction:column ;
+ justify-content:center;
+ 
+}  
+
+.right { 
+    float: right;
+    
+    width: 50%;
+  
+} 
+
+.main { 
+    display:flex;  
+} 
+
+.avatar { 
+    position:fixed;
+   height: 600px;
+   width: 500px;
+   top:10px;
+   left:56px;
+   
+} 
+
+.title{
+    text-align: center;
+    font-size: 260%;
+     background-color:teal;
+     color: yellow;
+ } 
+ 
+ h1 { 
+     color:black;
+     text-align: center;
+     font-size: 100px; 
+    font-family: 'Indie Flower', cursive;
+ } 
+ 
+ 
+
+ 
+ .red-jersey {
+     width: 250px;
+ }
+ .black-skirt{
+     width:225px;
+ }
+ .black-shirt {
+     width: 250px;
+ }
+ 
+ .black-pants{
+     height: 150px;
+ }
+ 
+.name{
+    color: teal;
+}
